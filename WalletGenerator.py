@@ -5,7 +5,7 @@ from mnemonic import Mnemonic
 
 mnemo = Mnemonic("english")
 
-MAIN_NET_HTTP_ENDPOINT = 'https://mainnet.infura.io/v3/a332b48488d64ecf9d1c0588d3179a8e'
+MAIN_NET_HTTP_ENDPOINT = 'https://mainnet.infura.io/v3/....................'
 
 def generate_eth_wallets(num_wallets):
     output_file = "wallets.txt"
